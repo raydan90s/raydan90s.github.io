@@ -26,7 +26,26 @@
 | [![ERPNext](https://github.com/user-attachments/assets/5a2b982f-6d89-49a4-a3f5-c949ed936f58)](https://github.com/raydan90s/ErpSRI) | [![BackToner](https://github.com/user-attachments/assets/0d7892ba-f1d6-4749-935a-935f0268629c)](https://github.com/raydan90s/backToner) |
 | Sistema ERP con facturación electrónica enlazada al SRI, gestión de inventarios y clientes. <br><br>**Tecnologías:** <br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Frappe](https://img.shields.io/badge/Frappe-FF6F61?style=for-the-badge&logo=frappe&logoColor=white) ![ERPNext](https://img.shields.io/badge/ERPNext-0F9D58?style=for-the-badge&logo=erpnext&logoColor=white) <br>**Repositorio:** [ErpSRI](https://github.com/raydan90s/ErpSRI) | Backend para e-commerce y automatizaciones, integrando chatbots y flujos de datos. <br><br>**Tecnologías:** <br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF3A00?style=for-the-badge&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) <br> |
 
+## <img src='https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif' width='50px'> Lenguajes
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS-264ee4?style=for-the-badge&logo=css3&logoColor=264ee4&labelColor=282828) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-eee?style=for-the-badge&logo=mysql&logoColor=eee&labelColor=282828)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
+## Framewoks y Plataformas
+![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Linux](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-0F9D58?style=for-the-badge&logo=erpnext&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-FF6F61?style=for-the-badge&logo=frappe&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF3A00?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
